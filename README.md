@@ -1,6 +1,7 @@
 # DataStructureAlgoritm
 Data Structure and Algorithm, for practical use, backend purpose
 
+## COMPILING A C PROGRAM
 If you use command prompt and MinGW to compile your program, here is the explanation of
 the compile command.
 1. Make sure the path in command prompt is the path where your C file is.
