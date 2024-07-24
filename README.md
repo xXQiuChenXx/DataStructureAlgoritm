@@ -9,7 +9,7 @@ the compile command.
 executable file for the source file.
 3. By default, the executable file is named a.exe.
 4. Adding -o lab1.exe ensure that the executable file is generated and named specifically
-as lab1.exe.
+as lab1.exe
 
 ```
 gcc lab1.c -o lab1.exe && lab1.exe 
