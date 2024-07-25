@@ -40,4 +40,6 @@ int main()
     //     printf("Grade E");
     //     break;
     // }
+
+    return 0;
 }
